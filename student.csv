@@ -1,0 +1,15 @@
+Name,id,class,maths,science,social,status
+john,1,10,88,85,89,pass
+mathew,2,9,92,76,56,pass
+mary,,10,27,7,76,fail
+haleema,13,8,92,,,
+tahir,,,,,,
+jasim,,9,82,66,37,pass
+ruhaan,12,9,93,54,56,pass
+inaaya,11,10,62,63,50,
+inaara,13,10,72,76,76,pass
+uzair,5,9,,,,pass
+tuaha,12,,50,74,26,
+aahil,22,8,62,29,35,fail
+arshad,52,9,52,52,52,pass
+anam,,,,,,

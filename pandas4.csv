@@ -1,0 +1,11 @@
+date,temperature,windspeed,event
+1-1-2013,30,56,cloudy
+2-1-2013,40,60,sunny
+3-1-2013,25F,45kmph,snow
+4-1-2014,50,30mph,sunny
+5-1-2013,34C,60,rainy
+6-1-2013,30F,45kmph,snow
+7-1-2013,33C,60,rainy
+10-1-2013,30F,45kmph,cloudy
+11-1-2013,50F,65,sunny
+12-1-2013,45,45,snow
