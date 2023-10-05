@@ -65,7 +65,9 @@ class Faculty(Branch):
         print(f"Faculty name is {self.faculty_name}")
         print(f"{self.faculty_name} deals with {self.department}")
 
+print(1)
 college = University("MIT","USA")
+print(2)
 college.display()
 course = Course("MIT","USA","Engineering")
 course.display()
